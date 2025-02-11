@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+}
+
+th {
+    background-color: blue;
+    color: white;
+}
+
+tr td {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.green {
+    background-color: green;
+    color: white;
+    border-radius: 3px;
+    border: none;
+}
+
+.yellow {
+    background-color: yellow;
+    color: black;
+    border-radius: 3px;
+}
+
+.red {
+    background-color: red;
+    color: white;
+    border-radius: 3px;
+}
+
+div {
+    background-color: azure;
+}
+
+.hightlight {
+    background-color: beige;
+}

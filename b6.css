@@ -1,0 +1,42 @@
+span {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: bisque;
+    border: none;
+    color: green;
+}
+
+.title {
+    text-align: center;
+    border: 2px solid red;
+}
+
+.tb {
+    font-family: 'Courier New', Courier, monospace;
+    border: none;
+    color: red;
+    background-color: white;
+}
+
+.c3 {
+    font-family: 'Courier New', Courier, monospace;
+    border: none;
+    color: blue;
+    background-color: white;
+}
+
+button {
+    border: none;
+    background-color: green;
+    border-radius: 3px;
+    color: aliceblue;
+}
+
+.boss {
+    background-color: aquamarine;
+    bb
+}
+
+.son {
+    border-left: 3px solid green;
+    background-color: white;
+}

@@ -1,0 +1,13 @@
+* {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+table+pre {
+    color: green;
+    font-size: 20px;
+    text-decoration: underline dotted red;
+}
